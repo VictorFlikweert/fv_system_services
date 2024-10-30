@@ -1,0 +1,20 @@
+#### Machine
+## QG_VS QG VS DV
+/home/nvidia/QualityGrader/Data/*.json
+// /home/nvidia/QualityGrader/json_files/classifications_data/*/*.json
+/home/nvidia/QualityGrader/json_files/image_save_settings/*/*.json
+/home/nvidia/QualityGrader/json_files/machine_aansturing.json
+/home/nvidia/QualityGrader/json_files/thresholds/*/*.json
+
+## Optional
+/home/nvidia/QualityGrader/*_settings.ini
+
+#### PanelPC
+## PanelPC
+/home/fvt/QualityGrader/Api/json_files/[!backup]*
+// /home/fvt/QualityGrader/Api/Logfiles
+/home/fvt/QualityGrader/Server/.env
+
+// ## Optional
+// /home/fvt/QualityGrader/Api/*_settings.ini
+// /home/fvt/QualityGrader/Server/*settings.ini
